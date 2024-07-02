@@ -37,5 +37,11 @@
       <artifactId>kerb-admin</artifactId>
       <version>${project.version}</version>
     </dependency>
+
+    <dependency>
+      <groupId>org.apache.hadoop</groupId>
+      <artifactId>hadoop-common</artifactId>
+      <version>3.3.0</version>
+    </dependency>
   </dependencies>
 </project>
